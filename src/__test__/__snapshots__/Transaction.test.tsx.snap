@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a message 1`] = `[Function]`;
+
+exports[`renders correctly Transaction 1`] = `<h5 />`;
